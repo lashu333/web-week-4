@@ -130,7 +130,8 @@ thead th {
 
   #add-person {
     font-size: 1.2rem;
-    background-color: #f64c72;
+    background-color: #000000ec;
+    color: #e69500;
   }
 
   .cont-input {
