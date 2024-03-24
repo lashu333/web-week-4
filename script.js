@@ -14,7 +14,6 @@ const addPerson = () => {
   const nameCell = document.createElement('td');
   const surnameCell = document.createElement('td');
   const ageCell = document.createElement('td');
-
   nameCell.textContent = name;
   surnameCell.textContent = surname;
   ageCell.textContent = age;
