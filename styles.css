@@ -119,7 +119,7 @@ thead th {
 #name:focus,
 #surname:focus,
 #age:focus {
-  background-color: #b548481b; /* Change this to your desired darker shade */
+  background-color: #b548481b;
 }
 
 @media only screen and (max-width: 768px) {
